@@ -1,9 +1,20 @@
 {
-  "name": "@saggn/high-promise",
-  "url" : "https://github.com/saginadir/high-promise",
-  "version": "1.0.0",
+  "name": "high-promise",
+  "repository": "https://github.com/saginadir/high-promise",
+  "version": "1.0.1",
+  "description": "A nicer wrapper for JavaScript Promise",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Sagi Sergio Nadir",
+    "email": "saginadir@gmail.com"
+  },
+  "keywords": [
+    "es6",
+    "promise",
+    "promises",
+    "syntax"
+  ],
   "scripts": {
     "test": "node test.js"
   }
