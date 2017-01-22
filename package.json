@@ -1,0 +1,10 @@
+{
+  "name": "@saggn/high-promise",
+  "url" : "https://github.com/saginadir/high-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
